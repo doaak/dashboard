@@ -1,0 +1,227 @@
+*{
+    box-sizing: border-box;
+}
+.box1{
+    background-color: #94161C;
+}
+.box button{
+    border: none;
+    text-align: center;
+}
+.box .top{
+    display: flex;
+    justify-content: space-between;
+}
+.box .left span{
+    font-size: 20px;
+}
+.box .right i{
+    font-size: 25px;
+}
+.btn{
+    width: 100%;
+    margin: auto;
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.box2{
+    background-color: #132F50;
+}
+.box3{
+    background-color: #56426E;
+}
+.box4{
+    background-color: #3F6C19;
+}
+.box5{
+    background-color: #7E7E7E;
+}
+.box6{
+    background-color: #E56B07;
+}
+.table .top{
+    display: flex;
+
+}
+.table1{
+    border: 4px solid #AB5643;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.table2{
+    border: 4px solid #8d9cb0;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px; 
+}
+.table3{
+    border: 4px solid #567841;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px; 
+}
+.table4{
+    border: 4px solid #FCF99C;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px; 
+}
+.table .image img {
+    width: 60px;
+    height: 60px;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.table .right p ,.table .right span{
+    margin-bottom: 0 !important;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.icon{
+    text-align: right;
+    margin-bottom: 2px;
+}
+.icon .fa-eye{
+    border: 1px solid transparent;
+    background-color: #D4948D;
+    padding: 2px;
+    font-size: 15px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.icon .fa-plus{
+    border: 1px solid transparent;
+    background-color: #6FD29C;
+    padding: 2px;
+    color: white;
+    font-size: 15px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.first {
+    background-color: black;
+    border: 2px solid #ABABAB;
+}
+.title{
+    background-color: #494949;
+    text-align: center;
+    color: white;
+    border: 4px solid #606060;
+}
+.title p{
+    font-size: 16px;
+    padding: 3px 10px;
+    text-transform: capitalize;
+    margin-bottom: 0;
+}
+.first .content h4{
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 600;
+    padding-top: 10px;
+}
+.first .content p{
+    color: #7E7E7E;
+    text-transform: capitalize;
+}
+.box-white p{
+    font-weight: 500;
+}
+.box-white img{
+    width: 50px;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.two p{
+    display: inline-block;
+    font-size: 13px;
+}
+.two i{
+    font-size: 10px;
+}
+.box-white button{
+    background-color: black;
+    color: white;
+    text-transform: capitalize;
+    border: none;
+    padding: 4px 20px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.second{
+    border: 2px solid #ABABAB;
+}
+.second .box{
+    background-color: #eee;
+    padding: 3px 5px;
+}
+.second .right h5{
+    text-transform: capitalize;
+    margin-bottom: 0 ;
+    font-size: 15px;
+}
+.second .right p{
+    font-size: 13px;
+}
+.second .box img{
+    width: 50px;
+    height: 50px;
+    border: 2px solid #6eecbc;
+    padding: 4px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.second .right button{
+    background-color: #36C88A;
+    text-transform: capitalize;
+    font-size: 13px;
+    color: white;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.second .box3 button{
+    background-color: #f9c570;
+}
+
+.circle1 img, .circle2 img{
+    width: 80px;
+    height: 80px;
+}
